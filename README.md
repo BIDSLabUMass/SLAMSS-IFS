@@ -26,3 +26,14 @@ overall sleep staging performance. Our overall contributions
 include a dedicated Apple Watch app for multi-night raw data
 acquisition, an open-source library for automated four-class sleep
 staging, and a public dataset for future investigations.
+
+
+## UMASS_Amherst_BIDSLab
+Biomedical Imaging & Data Science Laboratory
+
+Lab's website:
+http://www.bidslab.org/index.html
+
+
+Email: bidslab(at)gmail.com,
+       tzuansong(at)umass.edu.
