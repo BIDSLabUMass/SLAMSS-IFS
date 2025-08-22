@@ -39,6 +39,8 @@ This code uses:
 - CuDNN 8.2.1.32
 ## Dataset
 The Apple Watch dataset will be released soon.
+## BIDSleep
+BIDSleep download link is: https://apps.apple.com/us/app/bidsleep/id6747012248
 ## UMASS_Amherst_BIDSLab
 Biomedical Imaging & Data Science Laboratory
 
