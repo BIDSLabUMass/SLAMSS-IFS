@@ -27,7 +27,8 @@ include a dedicated Apple Watch app for multi-night raw data
 acquisition, an open-source library for automated four-class sleep
 staging, and a public dataset for future investigations.
 
-
+## Dataset
+The Apple Watch dataset will be released soon.
 ## UMASS_Amherst_BIDSLab
 Biomedical Imaging & Data Science Laboratory
 
