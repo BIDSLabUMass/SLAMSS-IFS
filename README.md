@@ -30,14 +30,13 @@ staging, and a public dataset for future investigations.
 
 This code uses:
 
-- Python 2.7
-- Pytorch 0.4.0
-- matplotlib 2.2.4
-- numpy 1.16.4
-- scipy 1.2.1
+- Python 3.7.16
+- Pytorch 1.9.0
+- numpy 1.21.5
+- scipy 1.6.2
 - NVIDIA GPU
-- CUDA 8.0
-- CuDNN 7.1.2
+- CUDA 11.8
+- CuDNN 8.2.1.32
 ## Dataset
 The Apple Watch dataset will be released soon.
 ## UMASS_Amherst_BIDSLab
