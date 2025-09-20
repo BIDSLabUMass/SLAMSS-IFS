@@ -38,7 +38,7 @@ This code uses:
 - CUDA 11.8
 - CuDNN 8.2.1.32
 ## Dataset
-The Apple Watch dataset will be released soon.
+The data link will be added here upon acceptance by the repository.
 ## BIDSleep
 BIDSleep download link is: https://apps.apple.com/us/app/bidsleep/id6747012248
 ## UMASS_Amherst_BIDSLab
