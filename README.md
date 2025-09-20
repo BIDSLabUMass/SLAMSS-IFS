@@ -41,6 +41,8 @@ This code uses:
 The data link will be added here upon acceptance by the repository.
 ## BIDSleep
 BIDSleep download link is: https://apps.apple.com/us/app/bidsleep/id6747012248
+## Citation
+Song, T.-A., Zhang, Y., Zhou, Z., Hou, L., Malekzadeh, M., Behzad, A., & Dutta, J. (2025). AI-driven sleep staging using instantaneous heart rate and accelerometry: Insights from an Apple Watch study. IEEE Transactions on Biomedical Engineering. https://doi.org/10.1109/TBME.2025.3612158
 ## UMASS_Amherst_BIDSLab
 Biomedical Imaging & Data Science Laboratory
 
